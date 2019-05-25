@@ -1,1 +1,17 @@
-Manh dang huong dan Thai thu dung git co ban!
+﻿git config --global user.name "PQThaiTB"
+git config --global user.email "phamquangthai528@gmail.com"
+git clone https://github.com/PQThaiTB/GiaiDeThiToeic.git
+
+phamquangthai528
+----------
+1. kiem tra trang thai cua kho du lieu:
+git status
+
+2. add file len trang thai
+git add *
+
+3. commit no len
+git commit -m "create file DH-lan-1 by Minh Manh"
+
+4. chot
+git push origin master
